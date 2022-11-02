@@ -1,0 +1,491 @@
+2022-11-01 20:05:12 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:05:13 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:06:49 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:06:53 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:17:33 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:17:37 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:18:04 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:18:08 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:18:16 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:18:20 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:18:25 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:18:28 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:19:12 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:19:16 INFO  baseTest:33 - Test Bitti
+2022-11-01 20:20:25 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:24:27 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:26:53 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:26:57 INFO  baseTest:51 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:30:49 INFO  baseTest:21 - Test Başladı
+2022-11-01 20:30:54 INFO  baseTest:62 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:30:54 INFO  baseTest:51 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:36:38 INFO  baseTest:23 - Test Başladı
+2022-11-01 20:36:42 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:36:42 INFO  baseTest:57 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:37:05 INFO  baseTest:23 - Test Başladı
+2022-11-01 20:37:09 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:37:09 INFO  baseTest:57 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:38:06 INFO  baseTest:23 - Test Başladı
+2022-11-01 20:38:10 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:38:10 INFO  baseTest:57 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:38:36 INFO  baseTest:23 - Test Başladı
+2022-11-01 20:38:39 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:38:39 INFO  baseTest:57 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:43:42 INFO  baseTest:23 - Test Başladı
+2022-11-01 20:43:45 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:43:45 INFO  baseTest:57 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:43:45 INFO  baseTest:52 - By.xpath: (//*[@class='nw-search header_search -icon'])elementine tiklandi
+2022-11-01 20:52:49 INFO  baseTest:20 - Test Başladı
+2022-11-01 20:52:53 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:52:53 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:53:21 INFO  baseTest:20 - Test Başladı
+2022-11-01 20:53:25 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:53:25 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:56:00 INFO  baseTest:20 - Test Başladı
+2022-11-01 20:56:04 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:56:04 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:57:06 INFO  baseTest:20 - Test Başladı
+2022-11-01 20:57:10 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:57:10 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 20:57:40 INFO  baseTest:20 - Test Başladı
+2022-11-01 20:57:44 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 20:57:44 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:04:22 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:04:26 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:04:26 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:06:31 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:06:35 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:06:35 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:07:52 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:07:55 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:07:56 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:08:19 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:08:24 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:08:24 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:09:07 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:09:11 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:09:11 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:09:29 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:09:32 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:09:32 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:11:43 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:11:47 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:11:47 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:12:03 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:12:07 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:12:07 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:12:24 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:12:29 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:12:29 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:13:44 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:13:48 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:13:48 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:14:12 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:14:15 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:14:15 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:17:49 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:17:53 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:17:53 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:17:55 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 21:22:03 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:22:06 INFO  baseTest:68 - actual name = NetWork = expected name = NetWork
+2022-11-01 21:22:06 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:22:09 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 21:23:25 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:23:28 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 21:23:28 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:23:30 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 21:25:18 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:25:22 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 21:25:22 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:25:24 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 21:26:05 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:26:09 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 21:26:09 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:26:12 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 21:26:14 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 21:49:32 INFO  baseTest:20 - Test Başladı
+2022-11-01 21:49:36 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 21:49:36 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 21:49:38 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 21:49:40 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:06:54 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:06:58 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:06:58 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:07:00 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:07:02 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:07:13 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:07:16 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:07:16 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:07:18 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:07:20 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:09:52 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:10:01 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:10:04 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:10:04 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:10:06 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:10:09 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:14:39 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:14:43 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:14:43 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:14:46 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:14:48 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:16:21 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:16:24 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:16:24 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:16:27 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:16:29 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:18:03 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:18:07 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:18:07 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:18:09 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:18:11 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:19:45 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:19:48 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:19:48 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:19:51 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:19:53 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:21:08 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:21:12 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:21:12 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:21:14 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:21:16 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:22:41 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:22:45 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:22:45 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:22:47 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:22:49 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:25:25 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:25:29 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:25:29 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:25:31 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:25:33 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:26:17 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:26:21 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:26:21 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:26:23 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:26:25 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:26:30 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:39:12 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:39:16 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:39:16 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:39:18 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:39:20 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:39:24 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:39:27 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:42:22 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:42:26 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:42:26 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:42:28 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:42:30 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:42:35 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:42:37 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:44:08 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:44:12 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:44:12 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:44:14 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:44:16 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:44:21 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:44:23 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:46:02 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:46:05 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:46:05 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:46:08 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:46:10 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:46:14 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:46:17 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:48:11 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:48:15 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:48:15 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:48:17 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:48:19 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:48:23 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:48:26 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:52:50 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:52:54 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:52:54 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:52:56 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:52:58 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:53:03 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:53:06 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:58:12 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:58:15 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:58:15 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:58:18 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:58:20 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:58:24 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:58:27 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 22:59:22 INFO  baseTest:20 - Test Başladı
+2022-11-01 22:59:26 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 22:59:26 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 22:59:28 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 22:59:30 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 22:59:34 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 22:59:37 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:01:22 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:01:26 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:01:26 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:01:28 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:01:30 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:01:35 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:01:37 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:06:01 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:06:04 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:06:04 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:06:07 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:06:09 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:06:13 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:06:52 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:06:56 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:06:56 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:06:58 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:07:00 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:07:04 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:09:28 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:09:32 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:09:32 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:09:34 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:09:36 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:09:41 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:11:17 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:11:21 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:11:21 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:11:23 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:11:25 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:11:30 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:12:02 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:12:06 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:12:06 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:12:08 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:12:10 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:12:14 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:13:41 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:13:44 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:13:45 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:13:47 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:13:49 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:13:54 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:49:54 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:49:58 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:49:58 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:50:00 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:50:02 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:50:06 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:50:09 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:51:08 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:51:12 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:51:12 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:51:14 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:51:16 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:51:21 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:51:24 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:51:24 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-01 23:54:11 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:54:17 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:54:17 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:54:20 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:54:22 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:54:27 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:54:30 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:55:00 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:55:08 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:55:08 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:55:12 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:55:14 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:55:18 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:55:21 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:57:29 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:57:41 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:57:41 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:57:44 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:57:46 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:57:50 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:57:54 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:58:44 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:58:50 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:58:51 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:58:54 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:58:56 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:59:00 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:59:11 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-01 23:59:27 INFO  baseTest:20 - Test Başladı
+2022-11-01 23:59:33 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-01 23:59:33 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-01 23:59:36 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-01 23:59:38 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-01 23:59:42 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-01 23:59:47 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:00:04 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:00:09 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:00:09 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:00:12 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:00:14 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:00:18 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:00:23 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:03:35 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:03:43 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:03:43 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:03:46 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:03:48 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:03:52 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:03:56 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:03:59 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:04:01 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:05:14 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:05:21 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:05:22 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:05:24 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:05:26 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:05:30 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:05:34 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:05:36 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:05:39 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:17:11 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:17:15 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:17:15 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:17:17 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:17:19 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:17:24 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:17:26 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:17:28 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:17:30 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:17:31 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 00:18:54 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:18:58 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:18:58 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:19:00 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:19:03 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:19:07 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:19:10 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:19:12 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:19:14 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:19:14 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 00:19:47 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:19:50 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:19:51 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:19:53 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:19:55 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:19:59 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:20:02 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:20:04 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:20:06 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:20:06 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 00:21:49 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:21:53 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:21:53 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:21:55 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:21:57 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:22:02 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:22:05 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:22:07 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:22:09 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:22:09 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 00:22:40 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:22:43 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:22:43 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:22:46 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:22:48 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:22:52 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:22:55 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:22:57 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:22:59 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:22:59 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 00:23:00 INFO  baseTest:49 - By.xpath: //*[@class='headerCheckout__logo__img']elementine tiklandi
+2022-11-02 00:23:02 INFO  baseTest:49 - By.xpath: //*[@class='header__icon -shoppingBag']elementine tiklandi
+2022-11-02 00:23:04 INFO  baseTest:49 - By.xpath: //*[@class='header__basketProductRemove']elementine tiklandi
+2022-11-02 00:23:07 INFO  baseTest:49 - By.xpath: //*[@class='btn -black o-removeCartModal__button']elementine tiklandi
+2022-11-02 00:25:16 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:25:20 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:25:20 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:25:22 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:25:24 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:25:29 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:25:31 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 00:25:33 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 00:25:35 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 00:25:35 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 00:25:36 INFO  baseTest:49 - By.xpath: //*[@class='headerCheckout__logo__img']elementine tiklandi
+2022-11-02 00:25:38 INFO  baseTest:49 - By.xpath: //*[@class='header__icon -shoppingBag']elementine tiklandi
+2022-11-02 00:25:40 INFO  baseTest:49 - By.xpath: //*[@class='header__basketProductRemove']elementine tiklandi
+2022-11-02 00:25:42 INFO  baseTest:49 - By.xpath: //*[@class='btn -black o-removeCartModal__button']elementine tiklandi
+2022-11-02 00:25:43 INFO  baseTest:49 - By.xpath: //*[@class='header__icon -shoppingBag']elementine tiklandi
+2022-11-02 00:25:45 INFO  baseTest:63 - By.className: header__emptyBasketText === Sepetiniz Henüz Boş
+2022-11-02 00:30:55 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:30:58 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:30:58 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:31:01 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:31:03 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:31:07 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:32:47 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:32:51 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:32:51 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:32:53 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:32:55 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:32:59 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:38:57 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:39:01 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:39:01 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:39:03 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:39:05 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:40:10 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:40:14 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:40:14 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:40:16 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:40:18 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:40:23 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:42:40 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:42:45 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:42:45 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:42:48 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:42:50 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 00:42:54 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 00:47:48 INFO  baseTest:20 - Test Başladı
+2022-11-02 00:47:53 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 00:47:53 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 00:47:56 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 00:47:58 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 12:59:08 INFO  baseTest:20 - Test Başladı
+2022-11-02 12:59:16 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 12:59:17 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 12:59:20 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 12:59:22 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 13:02:30 INFO  baseTest:20 - Test Başladı
+2022-11-02 13:02:41 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 13:02:41 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 13:02:43 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 13:02:45 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 13:02:50 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 13:03:40 INFO  baseTest:20 - Test Başladı
+2022-11-02 13:03:48 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 13:03:48 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 13:03:53 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 13:03:55 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 13:03:59 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 13:05:13 INFO  baseTest:20 - Test Başladı
+2022-11-02 13:05:21 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 13:05:21 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 13:05:24 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 13:05:26 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 13:05:30 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 13:06:35 INFO  baseTest:20 - Test Başladı
+2022-11-02 13:06:43 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 13:06:44 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 13:06:46 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 13:06:48 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 13:06:52 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
+2022-11-02 13:06:55 INFO  baseTest:49 - By.xpath: //*[text()='Sepete Git']elementine tiklandi
+2022-11-02 13:06:57 INFO  baseTest:49 - By.xpath: //*[@class='continueButton n-button large block text-center -primary']elementine tiklandi
+2022-11-02 13:06:59 INFO  baseTest:54 - By.xpath: //*[@id='n-input-email']elementinebatu_gerard_97@hotmail.com gönderildi.
+2022-11-02 13:06:59 INFO  baseTest:54 - By.xpath: //*[@id='n-input-password']elementineb1a2t3u4- gönderildi.
+2022-11-02 13:07:00 INFO  baseTest:49 - By.xpath: //*[@class='headerCheckout__logo__img']elementine tiklandi
+2022-11-02 13:07:02 INFO  baseTest:49 - By.xpath: //*[@class='header__icon -shoppingBag']elementine tiklandi
+2022-11-02 13:07:05 INFO  baseTest:49 - By.xpath: //*[@class='header__basketProductRemove']elementine tiklandi
+2022-11-02 13:07:07 INFO  baseTest:49 - By.xpath: //*[@class='btn -black o-removeCartModal__button']elementine tiklandi
+2022-11-02 13:07:07 INFO  baseTest:49 - By.xpath: //*[@class='header__icon -shoppingBag']elementine tiklandi
+2022-11-02 13:07:09 INFO  baseTest:63 - By.className: header__emptyBasketText === Sepetiniz Henüz Boş
+2022-11-02 13:07:56 INFO  baseTest:20 - Test Başladı
+2022-11-02 13:08:03 INFO  baseTest:68 - actual name = https://www.network.com.tr/ = expected name = https://www.network.com.tr/
+2022-11-02 13:08:03 INFO  baseTest:54 - By.id: searchelementineceket gönderildi.
+2022-11-02 13:08:06 INFO  baseTest:49 - By.xpath: //*[@class='button -secondary -sm relative']elementine tiklandi
+2022-11-02 13:08:08 INFO  baseTest:68 - actual name = https://www.network.com.tr/search?searchKey=ceket&page=2 = expected name = https://www.network.com.tr/search?searchKey=ceket&page=2
+2022-11-02 13:08:12 INFO  baseTest:49 - By.xpath: //*[@class='product__size -productCart radio-box'][3]elementine tiklandi
